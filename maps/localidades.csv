@@ -1,0 +1,17 @@
+id,listing_count,name,LocNombre,rent_entire_place,rent_min_stay_1_nights,rent_min_stay_2_nights,rent_min_stay_30_nights,rent_min_stay_3_nights,rent_min_stay_4_nights,rent_min_stay_7_nights,rent_private_room,rent_shared_room,rent_size_1_bedroom,rent_size_2_bedroom,rent_size_3_bedroom,rent_size_4_bedroom,rent_size_5_bedroom
+142649,56,Antonio Narino,ANTONIO NARIÑO,48,30,17,1,7,0,1,8,0,22,17,15,2,0
+142650,1071,Barrios Unidos,BARRIOS UNIDOS,852,502,331,56,110,35,35,218,1,882,124,38,12,15
+142651,17,Bosa          ,BOSA,13,3,5,3,3,1,2,4,0,4,13,0,0,0
+142652,592,Candelaria    ,CANDELARIA,417,379,136,22,31,10,14,169,6,494,64,22,5,7
+141883,6261,Chapinero,CHAPINERO,5781,2988,1510,508,642,251,359,474,6,4822,963,310,94,72
+142654,1162,Engativa      ,ENGATIVA,773,778,176,62,88,37,21,384,5,715,291,105,30,21
+142655,913,Fontibon      ,FONTIBON,629,538,140,82,50,37,64,281,3,455,261,167,18,12
+142656,288,Kennedy       ,KENNEDY,221,110,82,29,32,22,13,67,0,101,104,78,2,3
+142658,202,Puente Aranda ,PUENTE ARANDA,172,97,51,15,23,10,6,30,0,100,81,18,0,3
+142659,71,Rafael Uribe  ,RAFAEL URIBE URIBE,63,32,11,3,23,1,1,8,0,26,31,14,0,0
+142660,77,San Cristobal ,SAN CRISTOBAL,59,31,22,4,8,10,2,18,0,24,38,12,3,0
+142661,2312,Santa Fe      ,SANTA FE,2013,1202,648,156,160,70,76,287,12,1981,248,45,18,20
+142663,1194,Suba          ,SUBA,836,429,241,173,184,71,96,358,0,733,249,154,32,26
+142664,3221,Teusaquillo   ,TEUSAQUILLO,2444,1905,678,157,262,130,86,771,6,2705,303,154,26,31
+142665,18,Tunjuelito    ,TUNJUELITO,17,4,13,0,0,1,0,1,0,5,13,0,0,0
+141029,3895,Usaquen,USAQUEN,3367,1786,904,488,257,225,234,526,2,2527,966,320,58,24
