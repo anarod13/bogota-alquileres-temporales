@@ -1,0 +1,41 @@
+{
+  "payload": {
+    "group_by": "bedrooms",
+    "aggregation": "count",
+    "bucket_type": "numerical",
+    "buckets": [
+      {
+        "bucket_min": 1,
+        "bucket_max": 1,
+        "value": 2527
+      },
+      {
+        "bucket_min": 2,
+        "bucket_max": 2,
+        "value": 966
+      },
+      {
+        "bucket_min": 3,
+        "bucket_max": 3,
+        "value": 320
+      },
+      {
+        "bucket_min": 4,
+        "bucket_max": 4,
+        "value": 58
+      },
+      {
+        "bucket_min": 5,
+        "bucket_max": 5,
+        "value": 24
+      }
+    ],
+    "submarket_id": "141029"
+  },
+  "status": {
+    "code": "EXPLORER-S-007",
+    "message": "Success",
+    "human": "Success",
+    "type": "success"
+  }
+}

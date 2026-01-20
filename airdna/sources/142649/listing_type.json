@@ -1,0 +1,24 @@
+{
+  "payload": {
+    "group_by": "listing_type",
+    "aggregation": "count",
+    "bucket_type": "categorical",
+    "buckets": [
+      {
+        "category": "entire_place",
+        "value": 48
+      },
+      {
+        "category": "private_room",
+        "value": 8
+      }
+    ],
+    "submarket_id": "142649"
+  },
+  "status": {
+    "code": "EXPLORER-S-034",
+    "message": "Success",
+    "human": "Success",
+    "type": "success"
+  }
+}

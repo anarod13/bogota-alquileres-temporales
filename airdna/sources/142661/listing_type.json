@@ -1,0 +1,28 @@
+{
+  "payload": {
+    "group_by": "listing_type",
+    "aggregation": "count",
+    "bucket_type": "categorical",
+    "buckets": [
+      {
+        "category": "entire_place",
+        "value": 2013
+      },
+      {
+        "category": "private_room",
+        "value": 287
+      },
+      {
+        "category": "shared_room",
+        "value": 12
+      }
+    ],
+    "submarket_id": "142661"
+  },
+  "status": {
+    "code": "EXPLORER-S-034",
+    "message": "Success",
+    "human": "Success",
+    "type": "success"
+  }
+}

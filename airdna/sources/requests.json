@@ -1,0 +1,6 @@
+{
+    "historic_listing_count": "https://api.airdna.co/api/explorer/v2/submarket/142664/metrics/listing_count",
+    "listing_type":"https://api.airdna.co/api/explorer/v2/submarket/142664/overview/listing_type",
+    "size":"https://api.airdna.co/api/explorer/v2/submarket/142664/overview/bedrooms",
+    "minimum_stay":"https://api.airdna.co/api/explorer/v2/submarket/142664/overview/minimum_stay"
+}

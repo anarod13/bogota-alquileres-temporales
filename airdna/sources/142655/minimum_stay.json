@@ -1,0 +1,46 @@
+{
+  "payload": {
+    "group_by": "minimum_stay",
+    "aggregation": "count",
+    "bucket_type": "numerical",
+    "buckets": [
+      {
+        "bucket_min": 1,
+        "bucket_max": 1,
+        "value": 538
+      },
+      {
+        "bucket_min": 2,
+        "bucket_max": 2,
+        "value": 140
+      },
+      {
+        "bucket_min": 3,
+        "bucket_max": 3,
+        "value": 50
+      },
+      {
+        "bucket_min": 4,
+        "bucket_max": 6,
+        "value": 37
+      },
+      {
+        "bucket_min": 7,
+        "bucket_max": 29,
+        "value": 64
+      },
+      {
+        "bucket_min": 30,
+        "bucket_max": null,
+        "value": 82
+      }
+    ],
+    "submarket_id": "142655"
+  },
+  "status": {
+    "code": "EXPLORER-S-007",
+    "message": "Success",
+    "human": "Success",
+    "type": "success"
+  }
+}

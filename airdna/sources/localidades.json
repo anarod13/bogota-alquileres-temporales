@@ -1,0 +1,545 @@
+{
+    "payload": {
+        "pagination": {
+            "page_size": 18,
+            "offset": 0
+        },
+        "sort_order": "market_score",
+        "submarkets": [
+            {
+                "metrics": {
+                    "market_score": 94.095,
+                    "revenue": 19821128.61,
+                    "revenue_ltm": 5743.13,
+                    "booked": 0.5608412519510191,
+                    "occupancy": 0.5608412519510191,
+                    "adr": 28.05534118851622,
+                    "daily_rate": 103408.06,
+                    "revpar": 14.733186272463023,
+                    "estimated_yield": null,
+                    "home_value": null,
+                    "property_rating": null,
+                    "location_score": null,
+                    "listing_count": 3221
+                },
+                "id": "142664",
+                "name": "Teusaquillo   ",
+                "market_type": null,
+                "parent_market_name": null,
+                "market_id": "12",
+                "images": [
+                    "https://images.unsplash.com/photo-1566474815797-108f8ad975e3?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w0NTI4MzJ8MHwxfHNlYXJjaHwxfHxUZXVzYXF1aWxsbyUyMCUyMCUyMCUyMHxlbnwwfDB8fHwxNjg1MDU3OTIxfDA&ixlib=rb-4.0.3&q=100&w=400",
+                    "https://images.unsplash.com/photo-1681145553231-7373913b7a9a?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w0NTI4MzJ8MHwxfHNlYXJjaHwyfHxUZXVzYXF1aWxsbyUyMCUyMCUyMCUyMHxlbnwwfDB8fHwxNjg1MDU3OTIxfDA&ixlib=rb-4.0.3&q=100&w=400"
+                ],
+                "region_type": "neighborhood",
+                "geospatial": null,
+                "country_code": "co"
+            },
+            {
+                "metrics": {
+                    "market_score": 94.091,
+                    "revenue": 19826475.62,
+                    "revenue_ltm": 5744.64,
+                    "booked": 0.5608921714976325,
+                    "occupancy": 0.5608921714976325,
+                    "adr": 28.060201579950967,
+                    "daily_rate": 103425.97,
+                    "revpar": 14.737160743984253,
+                    "estimated_yield": null,
+                    "home_value": null,
+                    "property_rating": null,
+                    "location_score": null,
+                    "listing_count": 3218
+                },
+                "id": "248952",
+                "name": "Localidad Teusaquillo",
+                "market_type": null,
+                "parent_market_name": null,
+                "market_id": "12",
+                "images": [
+                    "https://images.unsplash.com/photo-1566474815797-108f8ad975e3?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w0NTI4MzJ8MHwxfHNlYXJjaHwxfHxMb2NhbGlkYWQlMjBUZXVzYXF1aWxsbyUyMHxlbnwwfDB8fHwxNjg1MDU3OTI0fDA&ixlib=rb-4.0.3&q=100&w=400",
+                    "https://images.unsplash.com/photo-1681145553231-7373913b7a9a?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w0NTI4MzJ8MHwxfHNlYXJjaHwyfHxMb2NhbGlkYWQlMjBUZXVzYXF1aWxsbyUyMHxlbnwwfDB8fHwxNjg1MDU3OTI0fDA&ixlib=rb-4.0.3&q=100&w=400"
+                ],
+                "region_type": "neighborhood",
+                "geospatial": null,
+                "country_code": "co"
+            },
+            {
+                "metrics": {
+                    "market_score": 92.696,
+                    "revenue": 22649813.36,
+                    "revenue_ltm": 6956.21,
+                    "booked": 0.609450652987516,
+                    "occupancy": 0.609450652987516,
+                    "adr": 31.270943822958937,
+                    "daily_rate": 115260.32,
+                    "revpar": 16.835767823537136,
+                    "estimated_yield": null,
+                    "home_value": null,
+                    "property_rating": null,
+                    "location_score": null,
+                    "listing_count": 1071
+                },
+                "id": "142650",
+                "name": "Barrios Unidos",
+                "market_type": null,
+                "parent_market_name": null,
+                "market_id": "12",
+                "images": [
+                    "https://images.unsplash.com/photo-1585736344879-761ae3996832?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w0NTI4MzJ8MHwxfHNlYXJjaHwxfHxCYXJyaW9zJTIwVW5pZG9zJTIwfGVufDB8MHx8fDE2ODUxMDEwMDZ8MA&ixlib=rb-4.0.3&q=100&w=400",
+                    "https://images.unsplash.com/photo-1570897620591-0ca6af1eacd7?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w0NTI4MzJ8MHwxfHNlYXJjaHwyfHxCYXJyaW9zJTIwVW5pZG9zJTIwfGVufDB8MHx8fDE2ODUxMDEwMDZ8MA&ixlib=rb-4.0.3&q=100&w=400"
+                ],
+                "region_type": "neighborhood",
+                "geospatial": null,
+                "country_code": "co"
+            },
+            {
+                "metrics": {
+                    "market_score": 89.727,
+                    "revenue": {
+                        "source": "15218180.0",
+                        "parsedValue": 15218180
+                    },
+                    "revenue_ltm": 4475.54,
+                    "booked": 0.581078752369464,
+                    "occupancy": 0.581078752369464,
+                    "adr": 21.101720047449586,
+                    "daily_rate": 77777.99,
+                    "revpar": 11.311781735159817,
+                    "estimated_yield": null,
+                    "home_value": null,
+                    "property_rating": null,
+                    "location_score": null,
+                    "listing_count": 56
+                },
+                "id": "142649",
+                "name": "Antonio Narino",
+                "market_type": null,
+                "parent_market_name": null,
+                "market_id": "12",
+                "images": [
+                    "https://images.unsplash.com/photo-1642376950602-c739e921f09a?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w0NTI4MzJ8MHwxfHNlYXJjaHwxfHxBbnRvbmlvJTIwTmFyaW5vJTIwfGVufDB8MHx8fDE2ODU0MTQyNTF8MA&ixlib=rb-4.0.3&q=100&w=400",
+                    "https://images.unsplash.com/photo-1642376951662-e1de55fe5f4e?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w0NTI4MzJ8MHwxfHNlYXJjaHwyfHxBbnRvbmlvJTIwTmFyaW5vJTIwfGVufDB8MHx8fDE2ODU0MTQyNTF8MA&ixlib=rb-4.0.3&q=100&w=400"
+                ],
+                "region_type": "neighborhood",
+                "geospatial": null,
+                "country_code": "co"
+            },
+            {
+                "metrics": {
+                    "market_score": 89.357,
+                    "revenue": 23867782.65,
+                    "revenue_ltm": 6923.42,
+                    "booked": 0.6327346050124941,
+                    "occupancy": 0.6327346050124941,
+                    "adr": 29.978240043793623,
+                    "daily_rate": 110495.6,
+                    "revpar": 17.74109307935975,
+                    "estimated_yield": null,
+                    "home_value": null,
+                    "property_rating": null,
+                    "location_score": null,
+                    "listing_count": 1194
+                },
+                "id": "142663",
+                "name": "Suba          ",
+                "market_type": null,
+                "parent_market_name": null,
+                "market_id": "12",
+                "images": [
+                    "https://images.unsplash.com/photo-1556225496-ff493e20d9a0?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w0Mzc4NzN8MHwxfHNlYXJjaHwxfHxTdWJhJTIwJTIwJTIwJTIwJTIwJTIwJTIwJTIwJTIwJTIwJTIwfGVufDB8MHx8fDE2ODUwNjQ2MTh8MA&ixlib=rb-4.0.3&q=100&w=400",
+                    "https://images.unsplash.com/photo-1613099867338-6f16e960c8b2?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w0Mzc4NzN8MHwxfHNlYXJjaHwyfHxTdWJhJTIwJTIwJTIwJTIwJTIwJTIwJTIwJTIwJTIwJTIwJTIwfGVufDB8MHx8fDE2ODUwNjQ2MTh8MA&ixlib=rb-4.0.3&q=100&w=400"
+                ],
+                "region_type": "neighborhood",
+                "geospatial": null,
+                "country_code": "co"
+            },
+            {
+                "metrics": {
+                    "market_score": 89.194,
+                    "revenue": 17832375.4,
+                    "revenue_ltm": 5067.3,
+                    "booked": 0.553870578572804,
+                    "occupancy": 0.553870578572804,
+                    "adr": 25.065458621864003,
+                    "daily_rate": 92387.77,
+                    "revpar": 13.254931824039014,
+                    "estimated_yield": null,
+                    "home_value": null,
+                    "property_rating": null,
+                    "location_score": null,
+                    "listing_count": 1162
+                },
+                "id": "142654",
+                "name": "Engativa      ",
+                "market_type": null,
+                "parent_market_name": null,
+                "market_id": "12",
+                "images": [
+                    "https://images.unsplash.com/photo-1568632234157-ce7aecd03d0d?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=small&w=1770&q=80",
+                    "https://images.unsplash.com/photo-1622432866666-26f106904a19?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=small&w=1932&q=80"
+                ],
+                "region_type": "neighborhood",
+                "geospatial": null,
+                "country_code": "co"
+            },
+            {
+                "metrics": {
+                    "market_score": 89.006,
+                    "revenue": 15308843.9,
+                    "revenue_ltm": 4302.63,
+                    "booked": 0.6350557645350756,
+                    "occupancy": 0.6350557645350756,
+                    "adr": 18.56219474176452,
+                    "daily_rate": 68417.65,
+                    "revpar": 11.379172863666014,
+                    "estimated_yield": null,
+                    "home_value": null,
+                    "property_rating": null,
+                    "location_score": null,
+                    "listing_count": 77
+                },
+                "id": "142660",
+                "name": "San Cristobal ",
+                "market_type": null,
+                "parent_market_name": null,
+                "market_id": "12",
+                "images": [
+                    "https://images.unsplash.com/photo-1640734838138-0ac0bdab0210?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w0NTI4MzJ8MHwxfHNlYXJjaHwxfHxTYW4lMjBDcmlzdG9iYWwlMjAlMjB8ZW58MHwwfHx8MTY4NTM1MjgyN3ww&ixlib=rb-4.0.3&q=100&w=400",
+                    "https://images.unsplash.com/photo-1595518107409-1a7a43deae2a?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w0NTI4MzJ8MHwxfHNlYXJjaHwyfHxTYW4lMjBDcmlzdG9iYWwlMjAlMjB8ZW58MHwwfHx8MTY4NTM1MjgyN3ww&ixlib=rb-4.0.3&q=100&w=400"
+                ],
+                "region_type": "neighborhood",
+                "geospatial": null,
+                "country_code": "co"
+            },
+            {
+                "metrics": {
+                    "market_score": 88.783,
+                    "revenue": 19728389.47,
+                    "revenue_ltm": 6451.95,
+                    "booked": 0.651376993928761,
+                    "occupancy": 0.651376993928761,
+                    "adr": 27.1372576815395,
+                    "daily_rate": 100024.13,
+                    "revpar": 14.664252607766747,
+                    "estimated_yield": null,
+                    "home_value": null,
+                    "property_rating": null,
+                    "location_score": null,
+                    "listing_count": 202
+                },
+                "id": "142658",
+                "name": "Puente Aranda ",
+                "market_type": null,
+                "parent_market_name": null,
+                "market_id": "12",
+                "images": [
+                    "https://images.unsplash.com/photo-1653573986346-8222474c3f8a?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w0NTI4MzJ8MHwxfHNlYXJjaHwxfHxQdWVudGUlMjBBcmFuZGElMjAlMjB8ZW58MHwwfHx8MTY4NTIyMzE5MXww&ixlib=rb-4.0.3&q=100&w=400",
+                    "https://images.unsplash.com/photo-1565551228750-d6bba16c1a94?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w0NTI4MzJ8MHwxfHNlYXJjaHwyfHxQdWVudGUlMjBBcmFuZGElMjAlMjB8ZW58MHwwfHx8MTY4NTIyMzE5MXww&ixlib=rb-4.0.3&q=100&w=400"
+                ],
+                "region_type": "neighborhood",
+                "geospatial": null,
+                "country_code": "co"
+            },
+            {
+                "metrics": {
+                    "market_score": 88.084,
+                    "revenue": 29937969.88,
+                    "revenue_ltm": 8665.48,
+                    "booked": 0.6606351919896096,
+                    "occupancy": 0.6606351919896096,
+                    "adr": 35.93666823497782,
+                    "daily_rate": 132457.53,
+                    "revpar": 22.253106541850826,
+                    "estimated_yield": null,
+                    "home_value": null,
+                    "property_rating": null,
+                    "location_score": null,
+                    "listing_count": 803
+                },
+                "id": "249130",
+                "name": "Chapinero Alto",
+                "market_type": null,
+                "parent_market_name": null,
+                "market_id": "12",
+                "images": [
+                    "https://images.unsplash.com/photo-1621525552174-01f1e89ee6b0?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w0Mzc4NzN8MHwxfHNlYXJjaHwxfHxDaGFwaW5lcm8lMjBBbHRvJTIwfGVufDB8MHx8fDE2ODUwOTMzODl8MA&ixlib=rb-4.0.3&q=100&w=400",
+                    "https://images.unsplash.com/photo-1665145549772-97b08e449d4d?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w0Mzc4NzN8MHwxfHNlYXJjaHwyfHxDaGFwaW5lcm8lMjBBbHRvJTIwfGVufDB8MHx8fDE2ODUwOTMzODl8MA&ixlib=rb-4.0.3&q=100&w=400"
+                ],
+                "region_type": "neighborhood",
+                "geospatial": null,
+                "country_code": "co"
+            },
+            {
+                "metrics": {
+                    "market_score": 87.998,
+                    "revenue": 18787541.37,
+                    "revenue_ltm": 5318.01,
+                    "booked": 0.5962912462503409,
+                    "occupancy": 0.5962912462503409,
+                    "adr": 24.434190066770327,
+                    "daily_rate": {
+                        "source": "90061.0",
+                        "parsedValue": 90061
+                    },
+                    "revpar": 13.96491350293542,
+                    "estimated_yield": null,
+                    "home_value": null,
+                    "property_rating": null,
+                    "location_score": null,
+                    "listing_count": 288
+                },
+                "id": "142656",
+                "name": "Kennedy       ",
+                "market_type": null,
+                "parent_market_name": null,
+                "market_id": "12",
+                "images": [
+                    "https://images.unsplash.com/photo-1516849677043-ef67c9557e16?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w0Mzc4NzN8MHwxfHNlYXJjaHwxfHxLZW5uZWR5JTIwJTIwJTIwJTIwJTIwJTIwJTIwJTIwfGVufDB8MHx8fDE2ODUxMjkzMDJ8MA&ixlib=rb-4.0.3&q=100&w=400",
+                    "https://images.unsplash.com/photo-1637910244902-f9a13112b8ba?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w0Mzc4NzN8MHwxfHNlYXJjaHwyfHxLZW5uZWR5JTIwJTIwJTIwJTIwJTIwJTIwJTIwJTIwfGVufDB8MHx8fDE2ODUxMjkzMDJ8MA&ixlib=rb-4.0.3&q=100&w=400"
+                ],
+                "region_type": "neighborhood",
+                "geospatial": null,
+                "country_code": "co"
+            },
+            {
+                "metrics": {
+                    "market_score": 87.642,
+                    "revenue": 35752105.98,
+                    "revenue_ltm": 10310.49,
+                    "booked": 0.6273497020652591,
+                    "occupancy": 0.6273497020652591,
+                    "adr": 45.02738994602458,
+                    "daily_rate": 165964.66,
+                    "revpar": 26.574795374330122,
+                    "estimated_yield": null,
+                    "home_value": null,
+                    "property_rating": null,
+                    "location_score": null,
+                    "listing_count": 6261
+                },
+                "id": "141883",
+                "name": "Chapinero",
+                "market_type": null,
+                "parent_market_name": null,
+                "market_id": "12",
+                "images": [
+                    "https://images.unsplash.com/photo-1568632234157-ce7aecd03d0d?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=small&w=1770&q=80",
+                    "https://images.unsplash.com/photo-1622432866666-26f106904a19?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=small&w=1932&q=80"
+                ],
+                "region_type": "neighborhood",
+                "geospatial": null,
+                "country_code": "co"
+            },
+            {
+                "metrics": {
+                    "market_score": 84.022,
+                    "revenue": 23579367.78,
+                    "revenue_ltm": 6648.66,
+                    "booked": 0.5566969429439316,
+                    "occupancy": 0.5566969429439316,
+                    "adr": 32.72067144220302,
+                    "daily_rate": 120603.81,
+                    "revpar": 17.52671225391122,
+                    "estimated_yield": null,
+                    "home_value": null,
+                    "property_rating": null,
+                    "location_score": null,
+                    "listing_count": 592
+                },
+                "id": "142652",
+                "name": "Candelaria    ",
+                "market_type": null,
+                "parent_market_name": null,
+                "market_id": "12",
+                "images": [
+                    "https://images.unsplash.com/photo-1637515276917-e202d132755d?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w0Mzc4NzN8MHwxfHNlYXJjaHwxfHxDYW5kZWxhcmlhJTIwJTIwJTIwJTIwJTIwfGVufDB8MHx8fDE2ODUxMjkyOTB8MA&ixlib=rb-4.0.3&q=100&w=400",
+                    "https://images.unsplash.com/photo-1635635299772-d7ff8efdf5d0?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w0Mzc4NzN8MHwxfHNlYXJjaHwyfHxDYW5kZWxhcmlhJTIwJTIwJTIwJTIwJTIwfGVufDB8MHx8fDE2ODUxMjkyOTB8MA&ixlib=rb-4.0.3&q=100&w=400"
+                ],
+                "region_type": "neighborhood",
+                "geospatial": null,
+                "country_code": "co"
+            },
+            {
+                "metrics": {
+                    "market_score": 83.451,
+                    "revenue": 22834887.78,
+                    "revenue_ltm": 6520.63,
+                    "booked": 0.6127236515938063,
+                    "occupancy": 0.6127236515938063,
+                    "adr": 29.156259836649493,
+                    "daily_rate": 107465.89,
+                    "revpar": 16.973334954268925,
+                    "estimated_yield": null,
+                    "home_value": null,
+                    "property_rating": null,
+                    "location_score": null,
+                    "listing_count": 2312
+                },
+                "id": "142661",
+                "name": "Santa Fe      ",
+                "market_type": null,
+                "parent_market_name": null,
+                "market_id": "12",
+                "images": [
+                    "https://images.unsplash.com/photo-1549793563-6cd521d4c83f?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w0NTI4MzJ8MHwxfHNlYXJjaHwxfHxTYW50YSUyMEZlJTIwJTIwJTIwJTIwJTIwJTIwJTIwfGVufDB8MHx8fDE2ODUwNzE5NzN8MA&ixlib=rb-4.0.3&q=100&w=400",
+                    "https://images.unsplash.com/photo-1567098261013-e21bb591c8c3?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w0NTI4MzJ8MHwxfHNlYXJjaHwyfHxTYW50YSUyMEZlJTIwJTIwJTIwJTIwJTIwJTIwJTIwfGVufDB8MHx8fDE2ODUwNzE5NzN8MA&ixlib=rb-4.0.3&q=100&w=400"
+                ],
+                "region_type": "neighborhood",
+                "geospatial": null,
+                "country_code": "co"
+            },
+            {
+                "metrics": {
+                    "market_score": 81.415,
+                    "revenue": 33474698.11,
+                    "revenue_ltm": 9696.08,
+                    "booked": 0.635847904922624,
+                    "occupancy": 0.635847904922624,
+                    "adr": 41.778246401109115,
+                    "daily_rate": 153988.77,
+                    "revpar": 24.88198186043307,
+                    "estimated_yield": null,
+                    "home_value": null,
+                    "property_rating": null,
+                    "location_score": null,
+                    "listing_count": 3895
+                },
+                "id": "141029",
+                "name": "Usaquen",
+                "market_type": null,
+                "parent_market_name": null,
+                "market_id": "12",
+                "images": [
+                    "https://images.unsplash.com/photo-1568632234157-ce7aecd03d0d?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=small&w=1770&q=80",
+                    "https://images.unsplash.com/photo-1622432866666-26f106904a19?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=small&w=1932&q=80"
+                ],
+                "region_type": "neighborhood",
+                "geospatial": null,
+                "country_code": "co"
+            },
+            {
+                "metrics": {
+                    "market_score": 80.284,
+                    "revenue": 22819193.08,
+                    "revenue_ltm": 6611.9,
+                    "booked": 0.5856991341141083,
+                    "occupancy": 0.5856991341141083,
+                    "adr": 30.92847630088818,
+                    "daily_rate": 113998.03,
+                    "revpar": 16.961668974534216,
+                    "estimated_yield": null,
+                    "home_value": null,
+                    "property_rating": null,
+                    "location_score": null,
+                    "listing_count": 913
+                },
+                "id": "142655",
+                "name": "Fontibon      ",
+                "market_type": null,
+                "parent_market_name": null,
+                "market_id": "12",
+                "images": [
+                    "https://images.unsplash.com/photo-1568632234157-ce7aecd03d0d?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=small&w=1770&q=80",
+                    "https://images.unsplash.com/photo-1622432866666-26f106904a19?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=small&w=1932&q=80"
+                ],
+                "region_type": "neighborhood",
+                "geospatial": null,
+                "country_code": "co"
+            },
+            {
+                "metrics": {
+                    "market_score": 80.245,
+                    "revenue": 16914781.21,
+                    "revenue_ltm": 5063.5,
+                    "booked": 0.541627004466574,
+                    "occupancy": 0.541627004466574,
+                    "adr": 25.612816006489115,
+                    "daily_rate": 94405.25,
+                    "revpar": 12.57287751813054,
+                    "estimated_yield": null,
+                    "home_value": null,
+                    "property_rating": null,
+                    "location_score": null,
+                    "listing_count": 71
+                },
+                "id": "142659",
+                "name": "Rafael Uribe  ",
+                "market_type": null,
+                "parent_market_name": null,
+                "market_id": "12",
+                "images": [
+                    "https://images.unsplash.com/photo-1523311514404-238b58929111?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w0NTI4MzJ8MHwxfHNlYXJjaHwxfHxSYWZhZWwlMjBVcmliZSUyMCUyMCUyMHxlbnwwfDB8fHwxNjg1NDE0MjUzfDA&ixlib=rb-4.0.3&q=100&w=400",
+                    "https://images.unsplash.com/photo-1522030520855-25f51e8ac93d?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w0NTI4MzJ8MHwxfHNlYXJjaHwyfHxSYWZhZWwlMjBVcmliZSUyMCUyMCUyMHxlbnwwfDB8fHwxNjg1NDE0MjUzfDA&ixlib=rb-4.0.3&q=100&w=400"
+                ],
+                "region_type": "neighborhood",
+                "geospatial": null,
+                "country_code": "co"
+            },
+            {
+                "metrics": {
+                    "market_score": 78.869,
+                    "revenue": 21626924.84,
+                    "revenue_ltm": 5829.75,
+                    "booked": 0.7318493150684932,
+                    "occupancy": 0.7318493150684932,
+                    "adr": 21.824052409920448,
+                    "daily_rate": 80440.4,
+                    "revpar": 16.075447488584476,
+                    "estimated_yield": null,
+                    "home_value": null,
+                    "property_rating": null,
+                    "location_score": null,
+                    "listing_count": 17
+                },
+                "id": "142651",
+                "name": "Bosa          ",
+                "market_type": null,
+                "parent_market_name": null,
+                "market_id": "12",
+                "images": [
+                    "https://images.unsplash.com/photo-1575726745286-c7eaad680444?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w0NTI4MzJ8MHwxfHNlYXJjaHwxfHxCb3NhJTIwJTIwJTIwJTIwJTIwJTIwJTIwJTIwJTIwJTIwJTIwfGVufDB8MHx8fDE2ODU0MjUxMzV8MA&ixlib=rb-4.0.3&q=100&w=400",
+                    "https://images.unsplash.com/photo-1653334352592-db91e87d941a?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w0NTI4MzJ8MHwxfHNlYXJjaHwyfHxCb3NhJTIwJTIwJTIwJTIwJTIwJTIwJTIwJTIwJTIwJTIwJTIwfGVufDB8MHx8fDE2ODU0MjUxMzV8MA&ixlib=rb-4.0.3&q=100&w=400"
+                ],
+                "region_type": "neighborhood",
+                "geospatial": null,
+                "country_code": "co"
+            },
+            {
+                "metrics": {
+                    "market_score": 78.57,
+                    "revenue": 15934317.91,
+                    "revenue_ltm": 4689.85,
+                    "booked": 0.6695914450233068,
+                    "occupancy": 0.6695914450233068,
+                    "adr": 19.18918918918919,
+                    "daily_rate": 70728.66,
+                    "revpar": 11.844092154420922,
+                    "estimated_yield": null,
+                    "home_value": null,
+                    "property_rating": null,
+                    "location_score": null,
+                    "listing_count": 18
+                },
+                "id": "142665",
+                "name": "Tunjuelito    ",
+                "market_type": null,
+                "parent_market_name": null,
+                "market_id": "12",
+                "images": [
+                    "https://images.unsplash.com/photo-1568632234157-ce7aecd03d0d?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=small&w=1770&q=80",
+                    "https://images.unsplash.com/photo-1622432866666-26f106904a19?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=small&w=1932&q=80"
+                ],
+                "region_type": "neighborhood",
+                "geospatial": null,
+                "country_code": "co"
+            }
+        ]
+    },
+    "status": {
+        "code": "EXPLORER-S-000",
+        "message": "Success",
+        "human": "Success",
+        "type": "success"
+    }
+}
