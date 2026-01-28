@@ -1,0 +1,16 @@
+{
+  "payload": {
+    "listings": [],
+    "sort_order": "revenue",
+    "pagination": {
+      "page_size": 15000,
+      "offset": 0
+    }
+  },
+  "status": {
+    "code": "EXPLORER-S-000",
+    "message": "Success",
+    "human": "Success",
+    "type": "success"
+  }
+}

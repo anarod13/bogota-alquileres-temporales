@@ -1,0 +1,9 @@
+{
+  "payload": [],
+  "status": {
+    "code": "WAT-LISTED-ACCOUNT-FAVORITE-SETS",
+    "human": "Listed account favorite sets",
+    "message": "Listed account favorite sets",
+    "type": "success"
+  }
+}
