@@ -34,7 +34,6 @@ async def main():
                 print(f"Error during login: {e}")
                 pass
             await page.wait_for_timeout(1000)
-            await page.screenshot(path=f'py_firefoxa.png', full_page=True)
             
             url_pattern = f"/submarket/{localidad}/listings"
             response_received = asyncio.Event()

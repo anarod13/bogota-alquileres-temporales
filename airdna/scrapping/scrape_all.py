@@ -4,7 +4,7 @@ import pandas as pd
 from pathlib import Path
 
 def main():
-    csv_path = Path("airdna/scrapping/localidades.csv")
+    csv_path = Path("airdna/scrapping/submarkets.csv")
     
     if not csv_path.exists():
         print(f"Error: {csv_path} not found")
@@ -23,36 +23,36 @@ def main():
     
     script_path = "airdna/scrapping/scrape_airdna.py"
     
-    print(f"Found {len(df)} localidades to process")
+    print(f"Found {len(df)} submarkets to process")
     print(f"Using columns: {id_col} (id), {listing_count_col} (limit)\n")
     
     for idx, row in df.iterrows():
-        localidad = str(row[id_col])
+        submarket = str(row[id_col])
         limit = int(row[listing_count_col])
         
         print(f"\n{'='*60}")
-        print(f"Processing localidad {idx + 1}/{len(df)}")
-        print(f"ID: {localidad}, Limit: {limit}")
+        print(f"Processing submarket {idx + 1}/{len(df)}")
+        print(f"ID: {submarket}, Limit: {limit}")
         print(f"{'='*60}\n")
         
         try:
             result = subprocess.run(
-                [sys.executable, script_path, localidad, str(limit)],
+                [sys.executable, script_path, submarket, str(limit)],
                 check=True,
                 capture_output=False
             )
-            print(f"\nCompleted successfully for localidad {localidad}")
+            print(f"\nCompleted successfully for submarket {submarket}")
         except subprocess.CalledProcessError as e:
-            print(f"\nError running script for localidad {localidad}: {e}")
+            print(f"\nError running script for submarket {submarket}: {e}")
             continue
         except KeyboardInterrupt:
-            print(f"\nInterrupted at localidad {localidad}")
+            print(f"\nInterrupted at submarket {submarket}")
             break
         except Exception as e:
-            print(f"\nUnexpected error for localidad {localidad}: {e}")
+            print(f"\nUnexpected error for submarket {submarket}: {e}")
             continue
     
-    print(f"\nAll localidades processed.")
+    print(f"\nAll submarkets processed.")
 
 if __name__ == "__main__":
     main()

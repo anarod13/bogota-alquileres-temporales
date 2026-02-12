@@ -1,0 +1,157 @@
+{
+    "payload": {
+        "pagination": {
+            "page_size": 12,
+            "offset": 0
+        },
+        "sort_order": "market_score",
+        "submarkets": [
+            {
+                "metrics": {
+                    "market_score": 95.607,
+                    "revenue": 880384.54,
+                    "booked": 0.5948041816195975,
+                    "occupancy": 0.5948041816195975,
+                    "adr": 72.72075758768133,
+                    "daily_rate": 4559.0,
+                    "revpar": 38.47408675799087,
+                    "estimated_yield": null,
+                    "home_value": null,
+                    "property_rating": null,
+                    "location_score": null,
+                    "listing_count": null
+                },
+                "id": "405280",
+                "name": "Evaristo Morales",
+                "market_type": null,
+                "parent_market_name": null,
+                "market_id": "84832",
+                "images": [
+                    "https://images.unsplash.com/photo-1599776521727-e2e373e50d65?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=Mnw0Mzc4NzN8MHwxfHNlYXJjaHwxfHxTYW50byUyMERvbWluZ28lMjBDaXR5JTIwRG9taW5pY2FuJTIwUmVwdWJsaWN8ZW58MHx8fHwxNjgyMzgxMjA5&ixlib=rb-4.0.3&q=100&w=400",
+                    "https://images.unsplash.com/photo-1622668766639-ad1096d4d711?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=Mnw0Mzc4NzN8MHwxfHNlYXJjaHwyfHxTYW50byUyMERvbWluZ28lMjBDaXR5JTIwRG9taW5pY2FuJTIwUmVwdWJsaWN8ZW58MHx8fHwxNjgyMzgxMjA5&ixlib=rb-4.0.3&q=100&w=400"
+                ],
+                "region_type": "neighborhood",
+                "geospatial": null,
+                "country_code": "do"
+            },
+            {
+                "metrics": {
+                    "market_score": 93.305,
+                    "revenue": 748809.26,
+                    "booked": 0.5095156101318592,
+                    "occupancy": 0.5095156101318592,
+                    "adr": 71.91927905494538,
+                    "daily_rate": 4508.75,
+                    "revpar": 32.72405510149265,
+                    "estimated_yield": null,
+                    "home_value": null,
+                    "property_rating": null,
+                    "location_score": null,
+                    "listing_count": null
+                },
+                "id": "141879",
+                "name": "Ciudad Colonial",
+                "market_type": null,
+                "parent_market_name": null,
+                "market_id": "84832",
+                "images": [
+                    "https://images.unsplash.com/photo-1602120016050-5ec337d9906e?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w0Mzc4NzN8MHwxfHNlYXJjaHwxfHxDaXVkYWQlMjBDb2xvbmlhbCUyMHxlbnwwfDB8fHwxNjg1MTI5MjcxfDA&ixlib=rb-4.0.3&q=100&w=400",
+                    "https://images.unsplash.com/photo-1553156548-2b4db9a299ec?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w0Mzc4NzN8MHwxfHNlYXJjaHwyfHxDaXVkYWQlMjBDb2xvbmlhbCUyMHxlbnwwfDB8fHwxNjg1MTI5MjcxfDA&ixlib=rb-4.0.3&q=100&w=400"
+                ],
+                "region_type": "neighborhood",
+                "geospatial": null,
+                "country_code": "do"
+            },
+            {
+                "metrics": {
+                    "market_score": 91.017,
+                    "revenue": 821785.09,
+                    "booked": 0.5596918441269807,
+                    "occupancy": 0.5596918441269807,
+                    "adr": 73.21398980546381,
+                    "daily_rate": 4589.92,
+                    "revpar": 35.91320547945205,
+                    "estimated_yield": null,
+                    "home_value": null,
+                    "property_rating": null,
+                    "location_score": null,
+                    "listing_count": null
+                },
+                "id": "190750",
+                "name": "La Esperilla",
+                "market_type": null,
+                "parent_market_name": null,
+                "market_id": "84832",
+                "images": [
+                    "https://images.unsplash.com/photo-1633974554270-d6337d2ff3a9?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w0NTI4MzJ8MHwxfHNlYXJjaHwxfHxMYSUyMEVzcGVyaWxsYSUyMHxlbnwwfDB8fHwxNjg1MTkxMDUzfDA&ixlib=rb-4.0.3&q=100&w=400",
+                    "https://images.unsplash.com/photo-1501103777042-0aeb4df8ff8f?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w0NTI4MzJ8MHwxfHNlYXJjaHwyfHxMYSUyMEVzcGVyaWxsYSUyMHxlbnwwfDB8fHwxNjg1MTkxMDUzfDA&ixlib=rb-4.0.3&q=100&w=400"
+                ],
+                "region_type": "neighborhood",
+                "geospatial": null,
+                "country_code": "do"
+            },
+            {
+                "metrics": {
+                    "market_score": 90.565,
+                    "revenue": 897502.66,
+                    "booked": 0.6023073893250039,
+                    "occupancy": 0.6023073893250039,
+                    "adr": 72.53838140355413,
+                    "daily_rate": 4547.57,
+                    "revpar": 39.222173326708784,
+                    "estimated_yield": null,
+                    "home_value": null,
+                    "property_rating": null,
+                    "location_score": null,
+                    "listing_count": null
+                },
+                "id": "184569",
+                "name": "Piantini",
+                "market_type": null,
+                "parent_market_name": null,
+                "market_id": "84832",
+                "images": [
+                    "https://images.unsplash.com/photo-1599776521727-e2e373e50d65?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=Mnw0Mzc4NzN8MHwxfHNlYXJjaHwxfHxTYW50byUyMERvbWluZ28lMjBDaXR5JTIwRG9taW5pY2FuJTIwUmVwdWJsaWN8ZW58MHx8fHwxNjgyMzgxMjA5&ixlib=rb-4.0.3&q=100&w=400",
+                    "https://images.unsplash.com/photo-1622668766639-ad1096d4d711?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=Mnw0Mzc4NzN8MHwxfHNlYXJjaHwyfHxTYW50byUyMERvbWluZ28lMjBDaXR5JTIwRG9taW5pY2FuJTIwUmVwdWJsaWN8ZW58MHx8fHwxNjgyMzgxMjA5&ixlib=rb-4.0.3&q=100&w=400"
+                ],
+                "region_type": "neighborhood",
+                "geospatial": null,
+                "country_code": "do"
+            },
+            {
+                "metrics": {
+                    "market_score": 89.186,
+                    "revenue": 943897.6,
+                    "booked": 0.5731362766661302,
+                    "occupancy": 0.5731362766661302,
+                    "adr": 81.81375286648051,
+                    "daily_rate": 5129.06,
+                    "revpar": 41.24969991295185,
+                    "estimated_yield": null,
+                    "home_value": null,
+                    "property_rating": null,
+                    "location_score": null,
+                    "listing_count": null
+                },
+                "id": "192098",
+                "name": "Ensanche Naco",
+                "market_type": null,
+                "parent_market_name": null,
+                "market_id": "84832",
+                "images": [
+                    "https://images.unsplash.com/photo-1665933997444-054f3518237b?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w0NTI4MzJ8MHwxfHNlYXJjaHwxfHxFbnNhbmNoZSUyME5hY28lMjB8ZW58MHwwfHx8MTY4NTE1ODQxMXww&ixlib=rb-4.0.3&q=100&w=400",
+                    "https://images.unsplash.com/photo-1581893817990-4e453de84e1d?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w0NTI4MzJ8MHwxfHNlYXJjaHwyfHxFbnNhbmNoZSUyME5hY28lMjB8ZW58MHwwfHx8MTY4NTE1ODQxMXww&ixlib=rb-4.0.3&q=100&w=400"
+                ],
+                "region_type": "neighborhood",
+                "geospatial": null,
+                "country_code": "do"
+            }
+        ]
+    },
+    "status": {
+        "code": "EXPLORER-S-000",
+        "message": "Success",
+        "human": "Success",
+        "type": "success"
+    }
+}
