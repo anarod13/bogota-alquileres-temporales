@@ -13,8 +13,10 @@ async def main():
     initial_offset = int(sys.argv[3]) if len(sys.argv) > 3 else 0
     async with async_playwright() as p:
             browser = await p.firefox.launch(headless=False)
-            page = await browser.new_page()
-            await page.goto('https://app.airdna.co')
+            context = await browser.new_context()
+            context.set_default_timeout(10000)
+            page = await context.new_page()
+            await page.goto('https://app.airdna.co', timeout=10000)
             
             try:
                 login_link = page.get_by_role("link", name="Log in")
@@ -24,9 +26,13 @@ async def main():
             except:
                 pass
             
-            await page.get_by_placeholder("Email").fill("facudifi@gmail.com")
-            await page.get_by_placeholder("Password").fill("Pasco689")
-            await page.get_by_role("button", name="Log in").click()
+            try:
+                await page.get_by_placeholder("Email").fill("facudifi@gmail.com", timeout=5000)
+                await page.get_by_placeholder("Password").fill("Pasco689", timeout=5000)
+                await page.get_by_role("button", name="Log in").click(timeout=5000)
+            except Exception as e:
+                print(f"Error during login: {e}")
+                pass
             await page.wait_for_timeout(1000)
             await page.screenshot(path=f'py_firefoxa.png', full_page=True)
             
@@ -105,14 +111,18 @@ async def main():
             
             await page.route("**/*", modify_request)
             page.on("response", log_response)
-            await page.goto(f'https://app.airdna.co/data/co/12/{localidad}/top-listings')
-            await page.wait_for_load_state("networkidle")
+            await page.goto(f'https://app.airdna.co/data/co/12/{localidad}/top-listings', timeout=10000)
+            try:
+                await page.wait_for_load_state("networkidle", timeout=10000)
+            except Exception as e:
+                print(f"Timeout waiting for networkidle: {e}")
+                pass
             
             print(f"Waiting for responses. Target: {limit} items")
             while total_fetched < limit:
                 response_received.clear()
                 try:
-                    await asyncio.wait_for(response_received.wait(), timeout=60.0)
+                    await asyncio.wait_for(response_received.wait(), timeout=10.0)
                     if total_fetched >= limit:
                         break
                     await page.wait_for_timeout(1000)
